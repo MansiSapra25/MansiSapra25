@@ -35,6 +35,6 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mansi-sapra&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansi-sapra&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MansiSapra25&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MansiSapra25&layout=compact&theme=radical" />
 </p>
